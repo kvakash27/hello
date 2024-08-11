@@ -1,3 +1,3 @@
-"# hello" 
-my name is akash kv 
-i am currently in 4th year integrated msc students.
+hi,
+ this file explore data related to amazon 
+ hjec
